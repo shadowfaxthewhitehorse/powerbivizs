@@ -1,7 +1,7 @@
 # powerbivizs
 #
 
-This repository has the visualizations created using Power BI.
+This repository has the visualizations created using Power BI as well as other visualization tools.
 
 Example visualizations
 
