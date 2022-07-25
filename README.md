@@ -58,3 +58,14 @@ All these files pertain to the same project.
 4. B series: this is a Power BI dashboard based on data related to the Data Science field.
 
 The data pertains to a client that wanted to prepare visualizations pertaining to data gathered on some web-based applications, which were gaining traction. They were tracking the number of unique users, the number of sessions, the number of pageviews, et cetera, and made the dataset available (having collected these stats).
+
+5. E series: this is a Power BI dashboard based on data involving a production environment.
+
+The data pertains to a production environment.
+
+Below is information on the F series, that is, files under the folder F__Series[*] in this GitHub repository (i.e. powerbivizs).
+All these files pertain to the same project.
+
+6. F series: this is a Power BI dashboard based on data involving a production environment.
+
+The dashboard created here is related to a company's sales data. The company's sales data has been visualized nicely using Power BI.
