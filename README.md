@@ -1,7 +1,7 @@
 # powerbivizs
 #
 
-This repository has the visualizations created using Power BI as well as other visualization tools. These items have been placed here 
+This repository has visualizations created using Power BI as well as other visualization tools. These items have been placed here 
 primarily so that they can be fetched easily via deo running under Google Colab.
 
 #
