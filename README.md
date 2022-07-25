@@ -25,7 +25,7 @@ files for a particular series.
 Below is information on the C series, that is, files under the folder C__Series[*] in this GitHub repository (i.e. powerbivizs).
 All these files pertain to the same project.
 
-1. C series: this is a Power BI dashboard based on data related church attendance. Software used: Power BI, Excel.
+1. C series: this is a Power BI dashboard based on data related to church attendance. Software used: Power BI, Excel.
 
 #
 #
