@@ -22,10 +22,19 @@ files for a particular series.
 #
 #
 
+Below is information on the A series, that is, files under the folder A__Series[*] in this GitHub repository (i.e. powerbivizs).
+All these files pertain to the same project.
+
+1. A series: this is a Power BI dashboard based on data related to the Data Science field.
+
+
+#
+#
+
 Below is information on the C series, that is, files under the folder C__Series[*] in this GitHub repository (i.e. powerbivizs).
 All these files pertain to the same project.
 
-1. C series: this is a Power BI dashboard based on data related to church attendance. Software used: Power BI, Excel.
+2. C series: this is a Power BI dashboard based on data related to church attendance. Software used: Power BI, Excel.
 
 #
 #
@@ -33,5 +42,9 @@ All these files pertain to the same project.
 Below is information on the D series, that is, files under the folder D__Series[*] in this GitHub repository (i.e. powerbivizs).
 All these files pertain to the same project.
 
-2. D series: 
+3. D series: this is a Power BI dashboard based on data related to the Data Science field.
+
+The data pertains to a client that wanted to prepare visualizations pertaining to their analysis of the job market in the Data Science field 
+(jobs of the nature of Data Science/Data Engineering/Data Analytics/Data Visualization and jobs primarily using other Data skills such as 
+economic modeling).
 
