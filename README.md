@@ -17,7 +17,9 @@ here since they are the output of many of the programs. You would have to run th
 #
 #
 Note that folders have been created for some of the series. Please refer to both the root directory as well as the folder to get all the 
-files for a particular series.
+files for a particular series. 
+
+Most of the dashboards were used for a company's education offering (the company's offering was MOOCs to teach tech skills.)
 
 #
 #
@@ -46,5 +48,5 @@ All these files pertain to the same project.
 
 The data pertains to a client that wanted to prepare visualizations pertaining to their analysis of the job market in the Data Science field 
 (jobs of the nature of Data Science/Data Engineering/Data Analytics/Data Visualization and jobs primarily using other Data skills such as 
-economic modeling).
+economic modeling). 
 
