@@ -66,6 +66,6 @@ The data pertains to a production environment.
 Below is information on the F series, that is, files under the folder F__Series[*] in this GitHub repository (i.e. powerbivizs).
 All these files pertain to the same project.
 
-6. F series: this is a Power BI dashboard based on data involving a production environment.
+6. F series: this is a Power BI dashboard. 
 
 The dashboard created here is related to a company's sales data. The company's sales data has been visualized nicely using Power BI.
