@@ -19,13 +19,19 @@ here since they are the output of many of the programs. You would have to run th
 Note that folders have been created for some of the series. Please refer to both the root directory as well as the folder to get all the 
 files for a particular series.
 
+#
+#
+
 Below is information on the C series, that is, files under the folder C__Series[*] in this GitHub repository (i.e. powerbivizs).
 All these files pertain to the same project.
 
-
-Example visualizations
-
 1. C series: this is a Power BI dashboard based on data related church attendance. Software used: Power BI, Excel.
 
-2.
+#
+#
+
+Below is information on the D series, that is, files under the folder D__Series[*] in this GitHub repository (i.e. powerbivizs).
+All these files pertain to the same project.
+
+2. D series: 
 
